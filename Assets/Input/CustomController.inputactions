@@ -1,0 +1,87 @@
+{
+    "name": "CustomController",
+    "maps": [
+        {
+            "name": "ClickButton",
+            "id": "09efa706-3253-494f-836f-17f0ee8047c4",
+            "actions": [
+                {
+                    "name": "click",
+                    "type": "Button",
+                    "id": "e9b87ce4-c28a-4421-a1ee-8cf8ed7f8e41",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9964cda9-eabc-4314-ba3d-ead2822dda8e",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Pointer",
+            "id": "276cf1d6-ae81-4fdd-baae-105c3736f992",
+            "actions": [
+                {
+                    "name": "New action1",
+                    "type": "Value",
+                    "id": "9658ddfc-faf8-4781-89b2-8133a7a6932b",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "26818e3b-5deb-40d7-9eef-77a0a0fe1910",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Pause",
+            "id": "8e04f3e7-1f61-4add-add0-13674bd54ecd",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "c33b09b6-3f10-445a-ad75-0f123e2cbf37",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2c05c623-747d-47b0-bd34-476191d23b2a",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

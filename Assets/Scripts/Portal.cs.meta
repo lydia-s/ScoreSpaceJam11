@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 98cd46f309e32af489861cc75fc0c877
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sea: {fileID: 21300000, guid: 3b608b334f634094f990c588011d8fac, type: 3}
+  - dirt: {fileID: 21300000, guid: 1093d5af0c9576548a93b37f8114d616, type: 3}
+  - grass: {fileID: 21300000, guid: 068a5336a48cc6b41a954d9a699e41f5, type: 3}
+  - collectableContainer: {fileID: 5958881825606397576, guid: 40da4a55b8eef5046b308eed3e44cff9,
+      type: 3}
+  - decorContainer: {fileID: 3270045762933965524, guid: 9cba4672705df594b8e99ac1abfb6a65,
+      type: 3}
+  - decorObj: {fileID: 7317841339728950074, guid: f9c1ad4ad52b7ee4cb011f9ff4a772f6,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
